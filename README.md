@@ -1,3 +1,3 @@
 # Hello World
 
-This is a new document
+This is a new document!
